@@ -1,0 +1,14 @@
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/bin/Debug/netcoreapp2.1/server.deps.json
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/bin/Debug/netcoreapp2.1/server.runtimeconfig.json
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/bin/Debug/netcoreapp2.1/server.runtimeconfig.dev.json
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/bin/Debug/netcoreapp2.1/server.dll
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/bin/Debug/netcoreapp2.1/server.pdb
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/obj/Debug/netcoreapp2.1/server.csprojAssemblyReference.cache
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/obj/Debug/netcoreapp2.1/server.csproj.CoreCompileInputs.cache
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/obj/Debug/netcoreapp2.1/server.RazorAssemblyInfo.cache
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/obj/Debug/netcoreapp2.1/server.RazorAssemblyInfo.cs
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/obj/Debug/netcoreapp2.1/server.AssemblyInfoInputs.cache
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/obj/Debug/netcoreapp2.1/server.AssemblyInfo.cs
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/obj/Debug/netcoreapp2.1/server.RazorTargetAssemblyInfo.cache
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/obj/Debug/netcoreapp2.1/server.dll
+/home/jospook/Documents/Programming/Web/Projects/tabletop-homebrew/server/obj/Debug/netcoreapp2.1/server.pdb
